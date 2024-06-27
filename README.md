@@ -27,4 +27,4 @@ The server receives these signals and reconstructs the characters from the binar
 
 ### Usage
      Run `make bonus` in the terminal. This will compile the `client_bonus.c` and `server_bonus.c` files into `client_bonus` and `server_bonus` executables respectively.
-  `After compilation, you can run the server and client with `./server_bonus` and `./client_bonus <PID> <message>`.
+  `After compilation, you can run the server and client with `./server_bonus` and `./client_bonus <PID> <message>.
